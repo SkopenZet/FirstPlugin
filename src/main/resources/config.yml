@@ -1,0 +1,5 @@
+#Главный конфигурационный файл
+messages:
+  command-hello: "<color:#68E258>Приветики"
+  command-reload: "<color#68E258>Конфиг перезагружен"
+  no-permission: "<red>Нет прав!"

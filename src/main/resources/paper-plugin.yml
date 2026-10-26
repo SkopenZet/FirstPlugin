@@ -1,0 +1,7 @@
+name: EnablePlugin
+version: '0.1.0-BETA'
+author: SkopenZet
+description: Современный плагин майнкрафт
+main: ru.skopenzet.enablePlugin.EnablePlugin
+api-version: '26.3'
+load: POSTWORLD
